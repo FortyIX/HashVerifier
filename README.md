@@ -18,11 +18,7 @@ A Hash Verifier which you can check if the hash you input is same as the one gen
 <li>
 <h3><span style="color: #000000;">Native Windows Application <br /></span></h3>
 </li>
-<li>
-<h3><span style="color: #000000;">There is also a prograss to indicate the whole input prograss<br /></span></h3>
-</li>
 </ul>
-<p>&nbsp;</p>
 <h2><strong><span style="color: #000000;">What you can get by downloading:</span></strong></h2>
 <ul>
 <li>
@@ -48,6 +44,4 @@ A Hash Verifier which you can check if the hash you input is same as the one gen
 <h3><a class="twitter-follow-button" href="https://twitter.com/FortyIX" data-size="large" data-show-count="false">Follow @FortyIX</a>&nbsp;at twitter</h3>
 <h3>or Email <em><a href="mailto:fortyix.contact@gmail.com">fortyix.contact@gmail.com</a></em></h3>
 <h3><strong>or Visit <a href="fuzhang.co.uk">fuzhang.co.uk</a></strong></h3>
-<p>
-<script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
-</p>
+
