@@ -17,7 +17,7 @@ A Hash Verifier which you can check if the hash you input is same as the one gen
 </li>
 <li>
 <h3><span style="color: #000000;">Native Windows Application <br /></span></h3>
-
+</li>
 
 <h2><strong><span style="color: #000000;">What you can get by downloading:</span></strong></h2>
 <ul>
