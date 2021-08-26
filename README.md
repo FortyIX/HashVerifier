@@ -8,5 +8,3 @@ HashVerifier is a software that can verify files with a certain hash key fow Win
 * Multiple language
 
 
-## Any Problem?
-Welcome to contact me at contact@fuzhang.io
