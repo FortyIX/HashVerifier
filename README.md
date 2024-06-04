@@ -1,6 +1,6 @@
 # HashVerifier
 HashVerifier is a software that can verify files with a certain hash key fow Windows and wirtern in C# 
-> Student work at A-Level
+> Student work for fun at A-Level
 
 
 ## Features
